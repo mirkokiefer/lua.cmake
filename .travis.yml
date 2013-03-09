@@ -8,7 +8,6 @@ compiler:
 env:
   - LUA_VERSION=5.2.1
   - LUA_VERSION=5.2.0
-  - LUA_VERSION=5.1.5
 
 # Install cmake
 install:
